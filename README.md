@@ -22,7 +22,7 @@ Social Street Smart is a Chrome extension aimed at making the internet a safer a
 ### Frontend (Chrome Extension)
 
 ```bash
-cd client
+cd NewClient
 npm install
 npm run build
 
